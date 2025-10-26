@@ -1,2 +1,2 @@
-WRITE "Hello, World!"
+WRITE "Hello, World"
 QUIT
